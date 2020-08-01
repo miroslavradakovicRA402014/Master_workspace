@@ -1,0 +1,1 @@
+The idea of my master thesis is that we have Linux kernel running on one of the cores of multicore SoC while the remaining cores are used as cores for RT processing in order to compare performances with existing solutions such as Xenomai and PREEMPT_RT
