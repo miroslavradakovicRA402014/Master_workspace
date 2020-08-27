@@ -1,0 +1,1 @@
+bootargs=root=/dev/nfs rw ip=<ip_addr> console=ttyAMA0,115200 nfsroot=<server_ip_addr>:/home/${USER}/<nfs_root_path>/nfsroot,nfsvers=3 isolcpus=1-3
